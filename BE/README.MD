@@ -1,4 +1,4 @@
-# Dự án đề tài VNNIC - Phân tích và dự báo web độc hại
+# Phân tích và dự báo web độc hại
 - Nhóm thành viên
 ## Yêu cầu
 

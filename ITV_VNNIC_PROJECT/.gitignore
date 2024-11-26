@@ -1,0 +1,6 @@
+*.pyc
+.env
+venv
+src/model/weights
+src/model/weights/pholexicalmeta_model.pt
+src/model/weights/pholexicalmeta_state_dict.pt

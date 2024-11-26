@@ -5,8 +5,8 @@ from pydantic import ValidationError
 from datetime import datetime, timedelta, timezone
 from typing import Union, Any
 
-SECURITY_ALGORITHM = 'HS256'
-SECRET_KEY = '123456'
+SECURITY_ALGORITHM = ''
+SECRET_KEY = ''
 
 reusable_oauth2 = HTTPBearer(
     scheme_name='Authorization'
